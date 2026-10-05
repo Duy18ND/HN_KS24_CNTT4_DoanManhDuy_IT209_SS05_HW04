@@ -1,1 +1,2 @@
 "Stable version" 
+"Fixed bug" 
